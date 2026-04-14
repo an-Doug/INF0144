@@ -1,0 +1,26 @@
+###
+GET http://localhost:8000/pacientes
+
+###
+POST http://localhost:8000/pacientes
+Content-Type: application/json
+
+{
+    "nome": "Douglas",
+    "nomeSocial": "Douglas",
+    "cpf": "9999999999",
+    "dataNascimento": "1998-03-30T00:00:00Z",
+    "sexo": "M"
+}
+
+###
+POST http://localhost:8000/pacientes
+Content-Type: application/json
+
+{
+    "nome": "Teste",
+    "nomeSocial": "Teste",
+    "cpf": "9999999998",
+    "dataNascimento": "1998-03-30T00:00:00Z",
+    "sexo": "F"
+}
