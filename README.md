@@ -21,7 +21,6 @@ INF0144/
 
 
 ├── api-test/          # Testes e exemplos de requisições da API
-
 ├── db/                # Arquivos relacionados ao banco de dados
 
 ├── prisma/            # Configurações e schema do Prisma
