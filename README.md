@@ -7,13 +7,15 @@ Estruturar uma aplicação backend utilizando TypeScript
 Implementar integração com banco de dados utilizando Prisma
 Organizar uma API seguindo boas práticas de desenvolvimento
 Experimentar conceitos modernos de desenvolvimento web
-Aplicar conhecimentos acadêmicos em um projeto prático
+Aplicar conhecimentos acadêmicos em um projeto prático.
+
 🛠️ Tecnologias Utilizadas
 Node.js
 TypeScript
 Prisma ORM
 NPM
 Banco de Dados SQL
+
 📁 Estrutura do Projeto
 INF0144/
 ├── api-test/          # Testes e exemplos de requisições da API
@@ -25,6 +27,7 @@ INF0144/
 ├── package-lock.json  # Controle de versões das dependências
 ├── prisma.config.ts   # Configuração do Prisma
 └── tsconfig.json      # Configuração do TypeScript
+
 🚀 Como Executar o Projeto
 1. Clone o repositório
 git clone https://github.com/an-Doug/INF0144.git
