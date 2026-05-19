@@ -18,8 +18,12 @@ Banco de Dados SQL
 
 📁 Estrutura do Projeto
 INF0144/
+
+
 ├── api-test/          # Testes e exemplos de requisições da API
+
 ├── db/                # Arquivos relacionados ao banco de dados
+
 ├── prisma/            # Configurações e schema do Prisma
 ├── src/               # Código-fonte principal da aplicação
 ├── .gitignore         # Arquivos ignorados pelo Git
