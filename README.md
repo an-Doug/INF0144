@@ -54,8 +54,10 @@ Exemplo:
 DATABASE_URL="sua_url_do_banco"
 5. Execute as migrations do Prisma
 npx prisma migrate dev
+
 6. Inicie a aplicação
 npm run dev
+
 📌 Funcionalidades Esperadas
 Conexão com banco de dados
 Operações CRUD
