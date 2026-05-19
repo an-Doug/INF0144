@@ -21,14 +21,21 @@ INF0144/
 
 
 ├── api-test/          # Testes e exemplos de requisições da API
+
 ├── db/                # Arquivos relacionados ao banco de dados
 
 ├── prisma/            # Configurações e schema do Prisma
+
 ├── src/               # Código-fonte principal da aplicação
+
 ├── .gitignore         # Arquivos ignorados pelo Git
+
 ├── package.json       # Dependências e scripts do projeto
+
 ├── package-lock.json  # Controle de versões das dependências
+
 ├── prisma.config.ts   # Configuração do Prisma
+
 └── tsconfig.json      # Configuração do TypeScript
 
 🚀 Como Executar o Projeto
